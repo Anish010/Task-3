@@ -293,6 +293,7 @@ function handleSidebarResponsive() {
   }
 }
 
+
 // Functions to get employee data from the form and save it to local storage
 function createEmployeeFromFormData(formData) {
   const empNo = formData.get("empNo");
